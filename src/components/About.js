@@ -6,7 +6,7 @@ export default function About() {
       <div className="flex px-10 py-20 md:flex-column flex-column bg-gray-100">
         <div className="lg:flex-row md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-            Hi! I am Ramya
+            A little about me!
           </h1>
         </div>
         <div className="px-10 py-20 md:flex-row flex-row items-center bg-gray-100">
